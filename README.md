@@ -1,6 +1,6 @@
 # PixelJump_v1.0
 Does not provide the c++ code (.cpp file).
-This is the 1st version of PixelJump, but this game also called "avoid the spike.
+This is the 1st version of PixelJump, but this game also called "avoid the spike".
 The game is made of C++ OpenGL (by glut, glu, and gl headers. Not glfw and glew).
 How to play: game to control the player to jump over the spike that can kill you.
 
